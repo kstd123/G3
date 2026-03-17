@@ -1,4 +1,4 @@
-# echarts-ssr
+# G3
 
 [English](./README.md)
 
